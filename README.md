@@ -23,3 +23,15 @@
 - - -
 ดับเบิ้ลคลิก **stop_hotspot.bat**
 
+## วิธีแชร์อินเตอร์เน็ต
+
+### ขั้นตอนที่ 1
+![alt tag](https://www.img.in.th/images/b29aac1a7cef1eb8291b37a8ef6c7c2b.png)
+
+### ขั้นตอนที่ 2
+![alt tag](https://www.img.in.th/images/b6f34f2169a045a509b7c49734291cbc.png)
+
+
+### ขั้นตอนที่ 3
+![alt tag](https://www.img.in.th/images/c8c7f245595e11662ab35e4607f1a14c.png)
+
