@@ -4,7 +4,7 @@
 
 ### การตั้งค่า
 - - -
-เปิดไฟล์ชื่อว่า config_hotspot.bat (เปิดโดยใช้ notepad)
+เปิดไฟล์ชื่อว่า **config_hotspot.bat** (เปิดโดยใช้ notepad)
 > netsh wlan set hostednetwork **ssid**=My_WIFI **key**=password mode=allow 
 
 สามารถแก้ไขชื่อไวไฟได้จาก
